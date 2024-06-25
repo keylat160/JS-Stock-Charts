@@ -9,6 +9,8 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "live-server": "^1.2.1"
+    "chart.js": "^4.4.3",
+    "live-server": "^1.2.1",
+    "twelvedata": "^3.0.1"
   }
 }
